@@ -1,4 +1,4 @@
-Use python selenium 
+Use python selenium
 ✔1. Go to the website, remove gunk(ads, header, footer, extra content)
 ✔2. record website with ffmpeg
 ✔3. Run autoscroll to bottom script js
