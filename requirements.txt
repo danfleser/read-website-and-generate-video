@@ -1,0 +1,9 @@
+joblib
+pathlib
+selenium
+fake-useragent
+typing
+urllib3
+tldextract
+requests
+Pillow
